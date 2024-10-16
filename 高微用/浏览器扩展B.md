@@ -10,7 +10,6 @@ chatGPT来搜索回答的内容
 
 插件链接：https://chromewebstore.google.com/detail/%E7%9F%A5%E4%B9%8E%E5%8A%A9%E6%89%8B/ccdejnpeddbcclpojninohdafamjjdke?hl=zh-CN
 
-![image](附件/浏览器扩展/images/sjuButbdZXXueGO_vmc4mLcuxLO_ekc7sQ0U2FWKSgY.png)
 
 <br/><br/>
 
